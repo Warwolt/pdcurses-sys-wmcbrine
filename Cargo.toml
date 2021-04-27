@@ -12,7 +12,7 @@ links = "pdcurses"
 build = "build.rs"
 
 [lib]
-name = "pdcurses-wmcbrine"
+name = "pdcurses"
 
 [build-dependencies]
 cc = "1.0"
